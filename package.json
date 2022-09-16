@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "bulma": "^0.7.0",
     "bulma-react": "0.0.8",
     "gh-pages": "^1.2.0",
